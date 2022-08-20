@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "awesome2.v1.Awesome2Service.FindReportByOwnerName"
+  },
+  "requests": [
+    {
+      "location": "FindReportByOwnerName-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}
